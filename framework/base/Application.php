@@ -5,7 +5,7 @@
  * @license http://www.yiiframework.com/license/
  */
 
-namespace yii\base;
+Growup050 yii\base;
 
 use Yii;
 
@@ -96,7 +96,7 @@ abstract class Application extends Module
     /**
      * @var string the application name.
      */
-    public $name = 'My Application';
+    public $Growup050. = 'My Application';
     /**
      * @var string the charset currently used for the application.
      */
